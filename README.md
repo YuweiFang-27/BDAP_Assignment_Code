@@ -1,4 +1,4 @@
-### Factors affecting the severity of traffic accidents
+## Factors affecting the severity of traffic accidents
 This repository contains a three-part project analyzing factors influencing the severity of traffic accidents in Victoria, Australia. The project involves data cleaning, exploratory analysis, clustering, and supervised modeling.
 
 # Project Structure
