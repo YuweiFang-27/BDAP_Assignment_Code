@@ -6,8 +6,14 @@ This repository contains a three-part project analyzing factors influencing the 
 2. Part B.ipynb —— Exploratory visualisation, PCA, and clustering.
 3. Part C.ipynb —— Supervised learning with logistic regression, random forest, and XGBoost for severity prediction.
 
-## Raw Dataset
+## Dataset
 The dataset is derived from publicly available Victorian traffic accident data and includes information on accident type, speed zone, light condition, road geometry, and more.
-1. accident.csv
-2. road_surface_cond.csv
-3. atmospheric_cond.csv
+
+### Raw Data (`raw_data.zip`)
+- `accident.csv`
+- `road_surface_cond.csv`
+- `atmospheric_cond.csv`
+- `accident_merged.csv` —— Merged dataset using `ACCIDENT_NO` as key
+
+### Cleaned Dataset
+- `accident_cleaned.csv` – Final dataset after data cleaning
