@@ -2,9 +2,11 @@
 This repository contains a three-part project analyzing factors influencing the severity of traffic accidents in Victoria, Australia. The project involves data cleaning, exploratory analysis, clustering, and supervised modeling.
 
 ## Project Structure
-1. Part A.ipynb —— Data preprocessing and initial exploration.
-2. Part B.ipynb —— Exploratory visualisation, PCA, and clustering.
-3. Part C.ipynb —— Supervised learning with logistic regression, random forest, and XGBoost for severity prediction.
+| File | Description |
+|------|-------------|
+| `Part A.ipynb` | Data preprocessing, merging, and initial exploration |
+| `Part B.ipynb` | Exploratory data visualization, PCA, and clustering (KMeans) |
+| `Part C.ipynb` | Supervised learning (Logistic Regression, Random Forest, XGBoost) and model evaluation |
 
 ## Dataset
 The dataset is derived from publicly available Victorian traffic accident data and includes information on accident type, speed zone, light condition, road geometry, and more.
