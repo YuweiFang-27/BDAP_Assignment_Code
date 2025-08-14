@@ -19,3 +19,11 @@ The dataset is derived from publicly available Victorian traffic accident data a
 
 ### Cleaned Dataset
 - `accident_cleaned.csv` – Final dataset after data cleaning
+
+## Execution
+
+To reproduce the results:
+
+1. Clone or download the repository.
+2. Unzip the `raw_data.zip` file and place all datasets in the same directory as the notebooks.
+3. Run the notebooks in sequence: Part A → Part B → Part C.
